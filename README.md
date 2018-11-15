@@ -1,11 +1,11 @@
-# Florence IDE Themes Plugin for Eclipse Dirigible
+# Florence Theme Plugin for Eclipse Dirigible
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/ide-theme-florence.svg)](https://github.com/dirigiblelabs/ide-theme-florence/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/resources-theme-florence.svg)](https://github.com/dirigiblelabs/resources-theme-florence/graphs/contributors)
 
 ## Overview
 
-Florence IDE Themes Plugin for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
+Florence Theme Plugin for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
 
 Build the [Eclipse Dirigible](https://github.com/eclipse/dirigible), deploy on e.g. Tomcat Web Container and go to location:
 
