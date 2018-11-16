@@ -11,6 +11,7 @@
 exports.getTheme = function() {
 	return {
 		'id': 'florence',
-		'module': 'theme-florence'
+		'module': 'theme-florence',
+		'name': 'Florence'
 	};
 };
